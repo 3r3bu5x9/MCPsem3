@@ -54,6 +54,4 @@ program monteCarloIntegrations
         err2 = abs(4*Iout2-pi)
         write(1,*) log10((real(I))), log10(err1), log10(err2)
     end do
-    call Integrate_HitOrMiss(a,b,h,n,Iout1)
-    call Integrate_RandomSampling(a,b,n,Iout2)
 end program monteCarloIntegrations

@@ -1,0 +1,1837 @@
+
+
+*******************************************************************************
+Tue Nov 23 13:31:26 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [1.00000 : 5.00000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Tue Nov 23 13:31:56 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [1.00000 : 5.00000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.8672933072e+02   0.00e+00  2.88e+00    1.000000e+00   1.000000e+00
+   4 2.7822320125e+00  -9.84e-04  2.88e-04   -8.197902e-01   7.782436e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.78223
+rel. change during last iteration : -9.84108e-09
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.745953
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.556446
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.81979         +/- 0.4683       (57.12%)
+b               = 0.778244         +/- 1.849        (237.6%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Tue Nov 23 13:32:13 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [1.00000 : 6.00000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.8672933072e+02   0.00e+00  2.88e+00    1.000000e+00   1.000000e+00
+   4 2.7822320125e+00  -9.84e-04  2.88e-04   -8.197902e-01   7.782436e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.78223
+rel. change during last iteration : -9.84108e-09
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.745953
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.556446
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.81979         +/- 0.4683       (57.12%)
+b               = 0.778244         +/- 1.849        (237.6%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Tue Nov 23 13:33:05 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [1.00000 : 6.00000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.8672933072e+02   0.00e+00  2.88e+00    1.000000e+00   1.000000e+00
+   4 2.7822320125e+00  -9.84e-04  2.88e-04   -8.197902e-01   7.782436e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.78223
+rel. change during last iteration : -9.84108e-09
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.745953
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.556446
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.81979         +/- 0.4683       (57.12%)
+b               = 0.778244         +/- 1.849        (237.6%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Tue Nov 23 13:33:28 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [1.00000 : 6.00000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.8672933072e+02   0.00e+00  2.88e+00    1.000000e+00   1.000000e+00
+   4 2.7822320125e+00  -9.84e-04  2.88e-04   -8.197902e-01   7.782436e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.78223
+rel. change during last iteration : -9.84108e-09
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.745953
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.556446
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.81979         +/- 0.4683       (57.12%)
+b               = 0.778244         +/- 1.849        (237.6%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Tue Nov 23 13:34:06 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [1.00000 : 6.00000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.8672933072e+02   0.00e+00  2.88e+00    1.000000e+00   1.000000e+00
+   4 2.7822320125e+00  -9.84e-04  2.88e-04   -8.197902e-01   7.782436e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.78223
+rel. change during last iteration : -9.84108e-09
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.745953
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.556446
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.81979         +/- 0.4683       (57.12%)
+b               = 0.778244         +/- 1.849        (237.6%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 18:53:30 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [1.00000 : 6.00000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.5815672751e+02   0.00e+00  2.88e+00    1.000000e+00   1.000000e+00
+   4 9.2956283972e-01  -2.54e-03  2.88e-04   -7.533373e-01   7.781570e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.929563
+rel. change during last iteration : -2.53962e-08
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.431176
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.185913
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.753337        +/- 0.2707       (35.93%)
+b               = 0.778157         +/- 1.069        (137.4%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 18:54:10 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [1.00000 : 6.00000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.5815672751e+02   0.00e+00  2.88e+00    1.000000e+00   1.000000e+00
+   4 9.2956283972e-01  -2.54e-03  2.88e-04   -7.533373e-01   7.781570e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.929563
+rel. change during last iteration : -2.53962e-08
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.431176
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.185913
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.753337        +/- 0.2707       (35.93%)
+b               = 0.778157         +/- 1.069        (137.4%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 18:57:07 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [1.00000 : 6.00000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.6443144635e+02   0.00e+00  2.88e+00    1.000000e+00   1.000000e+00
+   3 8.1252187382e-01  -9.03e-01  2.88e-03   -7.217989e-01   5.879473e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.812522
+rel. change during last iteration : -9.02701e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.403118
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.162504
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.721799        +/- 0.2531       (35.06%)
+b               = 0.587947         +/- 0.9994       (170%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 18:57:16 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [1.00000 : 6.00000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.6443144635e+02   0.00e+00  2.88e+00    1.000000e+00   1.000000e+00
+   3 8.1252187382e-01  -9.03e-01  2.88e-03   -7.217989e-01   5.879473e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.812522
+rel. change during last iteration : -9.02701e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.403118
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.162504
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.721799        +/- 0.2531       (35.06%)
+b               = 0.587947         +/- 0.9994       (170%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 18:57:20 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [1.00000 : 6.00000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.6443144635e+02   0.00e+00  2.88e+00    1.000000e+00   1.000000e+00
+   3 8.1252187382e-01  -9.03e-01  2.88e-03   -7.217989e-01   5.879473e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.812522
+rel. change during last iteration : -9.02701e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.403118
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.162504
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.721799        +/- 0.2531       (35.06%)
+b               = 0.587947         +/- 0.9994       (170%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 18:57:23 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [1.00000 : 6.00000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.6443144635e+02   0.00e+00  2.88e+00    1.000000e+00   1.000000e+00
+   3 8.1252187382e-01  -9.03e-01  2.88e-03   -7.217989e-01   5.879473e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.812522
+rel. change during last iteration : -9.02701e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.403118
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.162504
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.721799        +/- 0.2531       (35.06%)
+b               = 0.587947         +/- 0.9994       (170%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 18:57:27 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [1.00000 : 6.00000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.6443144635e+02   0.00e+00  2.88e+00    1.000000e+00   1.000000e+00
+   3 8.1252187382e-01  -9.03e-01  2.88e-03   -7.217989e-01   5.879473e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.812522
+rel. change during last iteration : -9.02701e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.403118
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.162504
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.721799        +/- 0.2531       (35.06%)
+b               = 0.587947         +/- 0.9994       (170%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:04:48 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [1.00000 : 6.00000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.6443144635e+02   0.00e+00  2.88e+00    1.000000e+00   1.000000e+00
+   3 8.1252187382e-01  -9.03e-01  2.88e-03   -7.217989e-01   5.879473e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.812522
+rel. change during last iteration : -9.02701e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.403118
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.162504
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.721799        +/- 0.2531       (35.06%)
+b               = 0.587947         +/- 0.9994       (170%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:05:51 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [1.00000 : 6.00000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.6443144635e+02   0.00e+00  2.88e+00    1.000000e+00   1.000000e+00
+   3 8.1252187382e-01  -9.03e-01  2.88e-03   -7.217989e-01   5.879473e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.812522
+rel. change during last iteration : -9.02701e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.403118
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.162504
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.721799        +/- 0.2531       (35.06%)
+b               = 0.587947         +/- 0.9994       (170%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:06:10 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [1.00000 : 6.00000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.6443144635e+02   0.00e+00  2.88e+00    1.000000e+00   1.000000e+00
+   3 8.1252187382e-01  -9.03e-01  2.88e-03   -7.217989e-01   5.879473e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.812522
+rel. change during last iteration : -9.02701e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.403118
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.162504
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.721799        +/- 0.2531       (35.06%)
+b               = 0.587947         +/- 0.9994       (170%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:06:25 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [1.00000 : 6.00000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 3.6443144635e+02   0.00e+00  2.88e+00    1.000000e+00   1.000000e+00
+   3 8.1252187382e-01  -9.03e-01  2.88e-03   -7.217989e-01   5.879473e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.812522
+rel. change during last iteration : -9.02701e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.403118
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.162504
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.721799        +/- 0.2531       (35.06%)
+b               = 0.587947         +/- 0.9994       (170%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:07:51 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [1.00000 : 6.00000]
+BREAK: No data to fit
+
+*******************************************************************************
+Sat Nov 27 19:09:19 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.6329357106e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 3.6035716611e+00  -6.23e-07  6.47e-05   -9.265288e-01   3.293144e+00
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 3.60357
+rel. change during last iteration : -6.2313e-12
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.848949
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.720714
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.926529        +/- 0.2315       (24.98%)
+b               = 3.29314          +/- 2.105        (63.91%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:09:42 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.6329357106e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 3.6035716611e+00  -6.23e-07  6.47e-05   -9.265288e-01   3.293144e+00
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 3.60357
+rel. change during last iteration : -6.2313e-12
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.848949
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.720714
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.926529        +/- 0.2315       (24.98%)
+b               = 3.29314          +/- 2.105        (63.91%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:13:50 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.5949667883e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 4.4064477084e+00  -1.56e-06  6.47e-05   -1.662922e-01  -3.505257e+00
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 4.40645
+rel. change during last iteration : -1.55962e-11
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.93877
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.88129
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.166292        +/- 0.2559       (153.9%)
+b               = -3.50526         +/- 2.327        (66.4%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:15:06 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.6635425112e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 3.2597843256e+00  -4.26e-07  6.47e-05   -8.848969e-01   2.762477e+00
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 3.25978
+rel. change during last iteration : -4.257e-12
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.807438
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.651957
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.884897        +/- 0.2201       (24.88%)
+b               = 2.76248          +/- 2.002        (72.47%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:18:20 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.8498369797e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   4 1.9018394887e+01  -6.99e-01  6.47e-04   -5.872270e-01  -7.572816e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 19.0184
+rel. change during last iteration : -6.99257e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.9503
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.80368
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.587227        +/- 0.5317       (90.55%)
+b               = -0.757282        +/- 4.835        (638.5%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:18:34 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.8498369797e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   4 1.9018394887e+01  -6.99e-01  6.47e-04   -5.872270e-01  -7.572816e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 19.0184
+rel. change during last iteration : -6.99257e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.9503
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.80368
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.587227        +/- 0.5317       (90.55%)
+b               = -0.757282        +/- 4.835        (638.5%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:18:53 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.8498369797e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   4 1.9018394887e+01  -6.99e-01  6.47e-04   -5.872270e-01  -7.572816e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 19.0184
+rel. change during last iteration : -6.99257e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.9503
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.80368
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.587227        +/- 0.5317       (90.55%)
+b               = -0.757282        +/- 4.835        (638.5%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:19:30 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.8498369797e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   4 1.9018394887e+01  -6.99e-01  6.47e-04   -5.872270e-01  -7.572816e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 19.0184
+rel. change during last iteration : -6.99257e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.9503
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.80368
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.587227        +/- 0.5317       (90.55%)
+b               = -0.757282        +/- 4.835        (638.5%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:21:19 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.7188317046e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 8.0707313138e+00  -3.28e-07  6.47e-05   -9.902980e-01   3.499463e+00
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 8.07073
+rel. change during last iteration : -3.27705e-12
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.27049
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.61415
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.990298        +/- 0.3464       (34.98%)
+b               = 3.49946          +/- 3.15         (90.01%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:22:50 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.5338777778e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   4 3.4454578911e+00  -3.11e-01  6.47e-04   -5.586991e-01   3.808251e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 3.44546
+rel. change during last iteration : -3.10838e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.830115
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.689092
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.558699        +/- 0.2263       (40.51%)
+b               = 0.380825         +/- 2.058        (540.4%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:23:12 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.5338777778e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   4 3.4454578911e+00  -3.11e-01  6.47e-04   -5.586991e-01   3.808251e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 3.44546
+rel. change during last iteration : -3.10838e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.830115
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.689092
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.558699        +/- 0.2263       (40.51%)
+b               = 0.380825         +/- 2.058        (540.4%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:23:26 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.5338777778e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   4 3.4454578911e+00  -3.11e-01  6.47e-04   -5.586991e-01   3.808251e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 3.44546
+rel. change during last iteration : -3.10838e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.830115
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.689092
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.558699        +/- 0.2263       (40.51%)
+b               = 0.380825         +/- 2.058        (540.4%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:24:06 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.5338777778e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   4 3.4454578911e+00  -3.11e-01  6.47e-04   -5.586991e-01   3.808251e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 3.44546
+rel. change during last iteration : -3.10838e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.830115
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.689092
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.558699        +/- 0.2263       (40.51%)
+b               = 0.380825         +/- 2.058        (540.4%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:24:17 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.5338777778e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   4 3.4454578911e+00  -3.11e-01  6.47e-04   -5.586991e-01   3.808251e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 3.44546
+rel. change during last iteration : -3.10838e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.830115
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.689092
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.558699        +/- 0.2263       (40.51%)
+b               = 0.380825         +/- 2.058        (540.4%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:25:02 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.5338777778e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   4 3.4454578911e+00  -3.11e-01  6.47e-04   -5.586991e-01   3.808251e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 3.44546
+rel. change during last iteration : -3.10838e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.830115
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.689092
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.558699        +/- 0.2263       (40.51%)
+b               = 0.380825         +/- 2.058        (540.4%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:31:11 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.6135979342e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 5.3910360703e+00  -6.58e-07  6.47e-05   -3.085613e-01  -2.288059e+00
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 5.39104
+rel. change during last iteration : -6.58065e-12
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.03837
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.07821
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.308561        +/- 0.2831       (91.75%)
+b               = -2.28806         +/- 2.574        (112.5%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:31:25 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.6135979342e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 5.3910360703e+00  -6.58e-07  6.47e-05   -3.085613e-01  -2.288059e+00
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 5.39104
+rel. change during last iteration : -6.58065e-12
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.03837
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.07821
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.308561        +/- 0.2831       (91.75%)
+b               = -2.28806         +/- 2.574        (112.5%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:32:27 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.6135488942e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 4.1923623571e+00  -3.24e-07  6.47e-05   -4.383734e-01  -1.104090e+00
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 4.19236
+rel. change during last iteration : -3.24394e-12
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.915681
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.838472
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.438373        +/- 0.2497       (56.95%)
+b               = -1.10409         +/- 2.27         (205.6%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:32:35 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.6135488942e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 4.1923623571e+00  -3.24e-07  6.47e-05   -4.383734e-01  -1.104090e+00
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 4.19236
+rel. change during last iteration : -3.24394e-12
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.915681
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.838472
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.438373        +/- 0.2497       (56.95%)
+b               = -1.10409         +/- 2.27         (205.6%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:32:40 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.6135488942e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 4.1923623571e+00  -3.24e-07  6.47e-05   -4.383734e-01  -1.104090e+00
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 4.19236
+rel. change during last iteration : -3.24394e-12
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.915681
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.838472
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.438373        +/- 0.2497       (56.95%)
+b               = -1.10409         +/- 2.27         (205.6%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:32:51 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.5884431241e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 1.4984345670e+00  -1.36e-06  6.47e-05   -3.797637e-01  -1.534575e+00
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.49843
+rel. change during last iteration : -1.36029e-11
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.547437
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.299687
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.379764        +/- 0.1493       (39.3%)
+b               = -1.53458         +/- 1.357        (88.44%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:33:14 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.6700173898e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 4.7067295987e+00  -1.62e-06  6.47e-05   -1.170107e+00   5.375360e+00
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 4.70673
+rel. change during last iteration : -1.61965e-11
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.97023
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.941346
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -1.17011         +/- 0.2645       (22.61%)
+b               = 5.37536          +/- 2.405        (44.75%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:33:34 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.8830853970e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   4 2.2442450370e+01  -4.24e-01  6.47e-04   -6.278025e-01  -5.172536e-01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 22.4425
+rel. change during last iteration : -4.23856e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.11861
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.48849
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.627803        +/- 0.5776       (92.01%)
+b               = -0.517254        +/- 5.253        (1015%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:33:58 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.8009152746e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 1.9162982769e+01  -1.98e-07  6.47e-05   -3.836766e-01  -2.403080e+00
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 19.163
+rel. change during last iteration : -1.97927e-12
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.9577
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3.8326
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.383677        +/- 0.5338       (139.1%)
+b               = -2.40308         +/- 4.854        (202%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:34:10 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.6272011543e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 1.0517358561e+00  -2.60e-07  6.47e-05   -5.625744e-01  -4.374113e-02
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.05174
+rel. change during last iteration : -2.6025e-12
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.458636
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.210347
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.562574        +/- 0.125        (22.23%)
+b               = -0.0437411       +/- 1.137        (2600%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:35:32 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.5605628177e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 4.9841548455e+00  -2.41e-06  6.47e-05    5.005307e-03  -4.901065e+00
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 4.98415
+rel. change during last iteration : -2.41362e-11
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.998414
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.996831
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = 0.00500531       +/- 0.2722       (5438%)
+b               = -4.90106         +/- 2.475        (50.51%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:35:50 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.7063808660e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 4.5687553627e+00  -7.69e-08  6.47e-05   -8.009081e-01   1.794109e+00
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 4.56876
+rel. change during last iteration : -7.69446e-13
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.955903
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.913751
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.800908        +/- 0.2606       (32.54%)
+b               = 1.79411          +/- 2.37         (132.1%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:36:12 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.5547954590e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 6.6059247635e+00  -3.41e-07  6.47e-05   -8.849751e-01   3.300237e+00
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 6.60592
+rel. change during last iteration : -3.40539e-12
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.14943
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.32118
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.884975        +/- 0.3134       (35.41%)
+b               = 3.30024          +/- 2.85         (86.35%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:36:20 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.5635850691e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 2.1075100373e-01  -1.26e-05  6.47e-05   -3.311233e-01  -1.867104e+00
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.210751
+rel. change during last iteration : -1.26069e-10
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.205305
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0421502
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.331123        +/- 0.05598      (16.9%)
+b               = -1.8671          +/- 0.509        (27.26%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:36:32 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.5635850691e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 2.1075100373e-01  -1.26e-05  6.47e-05   -3.311233e-01  -1.867104e+00
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.210751
+rel. change during last iteration : -1.26069e-10
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.205305
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0421502
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.331123        +/- 0.05598      (16.9%)
+b               = -1.8671          +/- 0.509        (27.26%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:37:28 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.5386744059e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 3.3192350697e-01  -1.23e-06  6.47e-05   -4.964011e-01  -2.301000e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.331924
+rel. change during last iteration : -1.23057e-11
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.257652
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0663847
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.496401        +/- 0.07025      (14.15%)
+b               = -0.2301          +/- 0.6388       (277.6%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:37:48 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.5386744059e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 3.3192350697e-01  -1.23e-06  6.47e-05   -4.964011e-01  -2.301000e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.331924
+rel. change during last iteration : -1.23057e-11
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.257652
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0663847
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.496401        +/- 0.07025      (14.15%)
+b               = -0.2301          +/- 0.6388       (277.6%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 
+
+
+*******************************************************************************
+Sat Nov 27 19:38:07 2021
+
+
+FIT:    data read from "MCerrorplot.dat" using 1:2
+        format = x:z
+        x range restricted to [6.00000 : 12.0000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 1.5386744059e+03   0.00e+00  6.47e+00    1.000000e+00   1.000000e+00
+   5 3.3192350697e-01  -1.23e-06  6.47e-05   -4.964011e-01  -2.301000e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.331924
+rel. change during last iteration : -1.23057e-11
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.257652
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0663847
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+m               = -0.496401        +/- 0.07025      (14.15%)
+b               = -0.2301          +/- 0.6388       (277.6%)
+
+correlation matrix of the fit parameters:
+                m      b      
+m               1.000 
+b              -0.988  1.000 

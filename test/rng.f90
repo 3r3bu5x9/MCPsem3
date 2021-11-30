@@ -12,6 +12,4 @@ program LCG
         Xn = mod(A*Xn+C,M)
         if (Xn == X0) exit
     end do
-    write(*,100) "a",A, "c",C, "m",M, "X0",X0, "Period", P
-100 format(5(/A," = ",I0))
 end program LCG

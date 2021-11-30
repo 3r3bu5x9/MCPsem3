@@ -22,7 +22,7 @@ program RNGDIST
         Fx(Ibin) = Fx(Ibin) + 1
     end do
     do I = 1, Nbin
-        write(2,100) I-BinSize*0.5, Fx(I)
+        write(2,100) I-BinSize*0.5, Fx(I), Fx(I)/(N*BinSize)
     end do
-100 format(F8.4,4X,I0)
+100 format(F8.4,4X,I0,4X,F8.4)
 end program RNGDIST
