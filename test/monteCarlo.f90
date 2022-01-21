@@ -1,7 +1,7 @@
 function F(x)
     implicit none
     real :: F, x
-    F = sqrt(1-x**2)
+    F = 2*3.14*x
 end function F
 subroutine Integrate_HitOrMiss(a, b, h, n, Iout)
     implicit none
@@ -42,16 +42,17 @@ program monteCarloIntegrations
     real, PARAMETER :: pi = 3.141592653589793238 
     real :: a, b, h, Iout1, Iout2, err1, err2
     integer :: n, I
-    open(unit=1,file="MCerrorplot.dat")
+    !open(unit=1,file="MCerrorplot.dat")
     a = 0.0
     b = 1.0
     h = 1.0
-    n = 1E5
+    n = 10
     do I = 10, n, 100
-        call Integrate_HitOrMiss(a,b,h,I,Iout1)
+        !call Integrate_HitOrMiss(a,b,h,I,Iout1)
         call Integrate_RandomSampling(a,b,I,Iout2)
-        err1 = abs(4*Iout1-pi)
-        err2 = abs(4*Iout2-pi)
-        write(1,*) log10((real(I))), log10(err1), log10(err2)
+        !err1 = abs(4*Iout1-pi)
+        !err2 = abs(4*Iout2-pi)
+        !write(1,*) log10((real(I))), log10(err1), log10(err2)
+        write(*,*) Iout2
     end do
 end program monteCarloIntegrations
